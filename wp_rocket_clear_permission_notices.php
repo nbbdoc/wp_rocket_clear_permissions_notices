@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: WP Rocket | Clear Permission Notices
- * Description: Removes admin notices from displaying when related to host file permissions on .htaccess and advanced-config.php files for WP Rocket.
+ * Description: Removes admin notices from displaying when related to host file permissions on .htaccess and advanced-cache.php files for WP Rocket.
  * Plugin URI:  https://github.com/nbbdoc/wp_rocket_clear_permissions_notices
  * Author:      WP Rocket Support Team
  * Author URI:  http://wp-rocket.me/

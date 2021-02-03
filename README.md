@@ -1,10 +1,10 @@
 # WP Rocket | Clear Permission Notices 
 
-Hides notices for write permission issues with .htaccess and advanced_cache.php
+Hides notices for write permission issues with .htaccess and advanced-cache.php
 
 
 To be used with:
-* Hiding write permissions notices for .htaccess and advanced_cache.php
+* Hiding write permissions notices for .htaccess and advanced-cache.php
 
 
 Last tested with:
