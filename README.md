@@ -1,4 +1,4 @@
-# WP Rocket | Clear Permission Notices 
+# WP Rocket | Clear Permissions Notices 
 
 Hides notices for write permission issues with .htaccess and advanced-cache.php
 
